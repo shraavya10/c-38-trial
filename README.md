@@ -1,2 +1,1 @@
-# c-38-trial
-hurdle game trials.
+# C38
